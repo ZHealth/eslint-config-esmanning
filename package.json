@@ -1,0 +1,38 @@
+{
+  "name": "eslint-config-esmanning",
+  "description": "JavaScript Manning Style - ESLint Shareable Config",
+  "version": "0.0.0",
+  "author": "ZHealth Documentation",
+  "bugs": {
+    "url": "https://github.com/ZHealth/eslint-config-esmanning/issues"
+  },
+  "dependencies": {
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.6.1",
+    "eslint-config-standard": "^6.1.0",
+    "eslint-config-standard-react": "^4.1.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-react": "^6.3.0",
+    "eslint-plugin-standard": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.4.0"
+  },
+  "homepage": "https://github.com/ZHealth/eslint-config-esmanning#readme",
+  "keywords": [
+    "config",
+    "dlmanning",
+    "eslint",
+    "react",
+    "standard"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZHealth/eslint-config-esmanning.git"
+  },
+  "scripts": {
+    "test": "standard"
+  }
+}
