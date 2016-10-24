@@ -34,6 +34,17 @@ Then, add this to your .eslintrc file:
 You can override settings from the shareable config by adding them directly into your
 `.eslintrc` file.
 
+`eslint-config-esmanning` also installs the following so you don't have to:
+
+- eslint
+- eslint-config-standard
+- eslint-config-standard-react
+- eslint-plugin-promise
+- eslint-plugin-react
+- eslint-plugin-standard
+
+This is probably not the way you want to do things in your own project. This is for the sake of convenience for ZHealth's projects (one declared dependency instead of seven).
+
 ## License
 
 [MIT](LICENSE)
