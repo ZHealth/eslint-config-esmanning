@@ -1,6 +1,6 @@
 # eslint-config-esmanning
 
-**ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) JavaScript Manning Style**
+**ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JavaScript Manning Style**
 
 ## Install
 
