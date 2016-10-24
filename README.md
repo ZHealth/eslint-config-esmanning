@@ -15,13 +15,7 @@ You can learn more about
 [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the
 official ESLint website.
 
-To use the JavaScript Manning Style shareable config, first run this:
-
-```bash
-npm install --save-dev eslint-config-esmanning
-```
-
-Then, add this to your .eslintrc file:
+To use the JavaScript Manning Style shareable config, just add this to your .eslintrc file:
 
 ```
 {
