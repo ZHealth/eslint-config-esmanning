@@ -1,6 +1,6 @@
 # eslint-config-esmanning
 
-**ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JavaScript Manning Style**
+**ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JavaScript [Manning](https://github.com/dlmanning) Style**
 
 [![latest version][npm-img]][npm-url]
 
