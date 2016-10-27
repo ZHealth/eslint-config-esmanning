@@ -17,7 +17,7 @@ official ESLint website.
 
 To use the JavaScript Manning Style shareable config, just add this to your .eslintrc file:
 
-```
+```json
 {
   "extends": "esmanning"
 }
