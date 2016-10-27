@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-esmanning",
   "description": "JavaScript Manning Style - ESLint Shareable Config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "ZHealth Documentation",
   "bugs": {
     "url": "https://github.com/ZHealth/eslint-config-esmanning/issues"
