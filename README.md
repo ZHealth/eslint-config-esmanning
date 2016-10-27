@@ -2,6 +2,11 @@
 
 **ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for JavaScript Manning Style**
 
+[![latest version][npm-img]][npm-url]
+
+[npm-img]: https://img.shields.io/npm/v/eslint-config-esmanning.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/eslint-config-esmanning
+
 ## Install
 
 ```bash
