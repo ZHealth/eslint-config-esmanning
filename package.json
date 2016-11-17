@@ -7,7 +7,7 @@
     "url": "https://github.com/ZHealth/eslint-config-esmanning/issues"
   },
   "dependencies": {
-    "babel-eslint": "~7.0.0",
+    "babel-eslint": "~7.1.1",
     "eslint": "~3.9.0",
     "eslint-config-standard": "~6.1.0",
     "eslint-config-standard-react": "~4.1.0",
