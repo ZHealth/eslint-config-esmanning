@@ -10,7 +10,9 @@
 ## Install
 
 ```bash
-npm install eslint-config-esmanning --save-dev
+npm install eslint eslint-config-esmanning --save-dev
+echo "{ \"extends\": [\"esmanning\"] }" > .eslintrc
+npx npe scripts.test "eslint ."
 ```
 
 ## Usage
@@ -28,21 +30,20 @@ To use the JavaScript Manning Style shareable config, just add this to your .esl
 }
 ```
 
-*Note: We omitted the `eslint-config-` prefix since it is automatically assumed by ESLint.*
+*Note: `eslint-config-` prefix is automatically assumed by ESLint.*
 
 You can override settings from the shareable config by adding them directly into your
 `.eslintrc` file.
 
 `eslint-config-esmanning` also installs the following so you don't have to:
 
-- eslint
 - eslint-config-standard
 - eslint-config-standard-react
 - eslint-plugin-promise
 - eslint-plugin-react
 - eslint-plugin-standard
 
-This is probably not the way you want to do things in your own project. This is for the sake of convenience for ZHealth's projects (one declared dependency instead of seven).
+This may not be the way you want to do things in your own project. This is for the sake of convenience for ZHealth's projects (one declared dependency instead of seven).
 
 ## License
 

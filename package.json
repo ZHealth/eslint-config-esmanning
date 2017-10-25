@@ -8,12 +8,14 @@
   },
   "dependencies": {
     "babel-eslint": "~7.0.0",
-    "eslint": "~3.9.0",
     "eslint-config-standard": "~6.1.0",
     "eslint-config-standard-react": "~4.1.0",
     "eslint-plugin-promise": "~3.3.0",
     "eslint-plugin-react": "~6.5.0",
     "eslint-plugin-standard": "~2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "~3.9.0"
   },
   "homepage": "https://github.com/ZHealth/eslint-config-esmanning#readme",
   "keywords": [
