@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.0.0
+
+- chore: banish lock file
+- chore(pkg): move eslint to dev deps
+- docs: update install instructions
+
+BREAKING CHANGE: eslint is no longer a direct dependency
+
+after npm@5 it's necessary to install eslint as a direct dependency
+in projects using this config, as the eslint command is not made
+available otherwise
+
 ## 1.0.4
 
 - deps: semver patch only for eslint
